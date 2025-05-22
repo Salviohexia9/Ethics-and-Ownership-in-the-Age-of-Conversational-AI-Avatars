@@ -86,7 +86,10 @@ In a world driven by speed and disruption, I want to be part of a generation of 
 
 ## 📸 Workshop Materials 
 
-- 📷![AI and Ethics Workshop](duales_studium/workshop-aiandethics.jpg)
+- 📷
+
+<img src="workshop-aiandethics.jpg" alt="Workshop photo" width="600"/>
+
  
 
 ---
